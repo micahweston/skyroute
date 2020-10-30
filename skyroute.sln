@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "skyroute", "skyroute\skyroute.pyproj", "{4A498C37-FE1A-444F-9031-7ECF0B284875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A498C37-FE1A-444F-9031-7ECF0B284875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A498C37-FE1A-444F-9031-7ECF0B284875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0AB8FF-6F77-4FB8-BBEA-920A0462D228}
+	EndGlobalSection
+EndGlobal
